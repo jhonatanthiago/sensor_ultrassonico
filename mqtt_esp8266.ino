@@ -10,8 +10,8 @@
 // Configuração Adafruit IO
 #define AIO_SERVER "io.adafruit.com"
 #define AIO_SERVERPORT 1883
-#define AIO_USERNAME "SEU USERNAME NO ADAFRUIT IO"
-#define AIO_KEY "SUA KEY NO ADAFRUIT IO"
+#define AIO_USERNAME "Seu_Username"
+#define AIO_KEY "Sua_AIO_Key"
 
 // Configuração do feed
 #define FEED_NAME "sensor_ultrassonico"
